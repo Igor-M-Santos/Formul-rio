@@ -1,6 +1,7 @@
 # Cadastro de DEVs
 
 ## Descrição
+Criei esse projeto com um video da Rafaella Ballerini.
 
 Este projeto é um formulário de cadastro para desenvolvedores. Ele coleta informações como nome, sobrenome, email, área de desenvolvimento, senioridade, tecnologias utilizadas e experiência.
 
